@@ -1,2 +1,2 @@
 # Introduction
-Biostatistics 1 Fall 20202
+Biostatistics 1 Fall 2020
